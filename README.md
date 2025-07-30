@@ -4,7 +4,7 @@ Welcome to the **Amazon Login Page** project! This is a simple login page built 
 
 ---
 
-## 🌟 **Features**
+## 😎 **Features**
 
 - <span style="color:#4CAF50;">Responsive Design</span> 📱: Adapts to various screen sizes.
 - <span style="color:#2196F3;">Clean Layout</span> ✨: Simple and user-friendly interface.
